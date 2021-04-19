@@ -4,6 +4,6 @@ class Shiroot2
 {
   public function __construct()
   {
-    echo 'class : Shisoft Root';
+    echo 'class : App Shiroot2';
   }
 }
