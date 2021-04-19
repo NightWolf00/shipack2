@@ -11,10 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Shiroot\\": "/"
-            , "Shiroot2\\": "/"
-            , "Shisrc555\\": "/src"
-            , "Shisrc2\\": "/src"
+            "App\\": "/"
         }
     },
     "require": {}
