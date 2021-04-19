@@ -1,0 +1,21 @@
+{
+    "name": "nightwolf/shipack2",
+    "description": "des about the shipack2",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "NightWolf808",
+            "email": "erfanqsn505@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Shiroot\\": "/"
+            , "Shiroot2\\": "/"
+            , "Shisrc\\": "/src"
+            , "Shisrc2\\": "/src"
+        }
+    },
+    "require": {}
+}
