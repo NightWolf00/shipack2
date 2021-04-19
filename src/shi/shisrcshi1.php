@@ -1,6 +1,6 @@
 <?php
 namespace Source\Shi;
-class shisrcshi1
+class Shisrcshi1
 {
   public function __construct()
   {
