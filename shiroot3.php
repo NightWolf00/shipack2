@@ -1,9 +1,9 @@
 <?php
 namespace App;
-class ShisoftRoot
+class Shiroot3
 {
   public function __construct()
   {
-    echo 'class : App ShisoftRoot Shiroot3';
+    echo 'class : App Shiroot3';
   }
 }
