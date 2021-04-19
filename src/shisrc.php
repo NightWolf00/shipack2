@@ -1,5 +1,5 @@
 <?php
-namespace Shisrc;
+namespace Source;
 class Shisrc
 {
   public function __construct()
