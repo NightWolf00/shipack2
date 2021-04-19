@@ -1,6 +1,6 @@
 php
-namespace Shisoft\Root;
-class Shisoft
+namespace App;
+class Shiroot2
 {
   public function __construct()
   {
