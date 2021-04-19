@@ -1,5 +1,5 @@
 <?php
-namespace Shiroot;
+namespace App;
 class Shiroot
 {
   public function __construct()
