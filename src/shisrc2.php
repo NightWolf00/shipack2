@@ -1,9 +1,9 @@
 <?php
-namespace Shisoft\Source;
-class Shisoft2
+namespace Source;
+class Shisrc2
 {
   public function __construct()
   {
-    echo 'class : Shisoft2 Shisoft Source';
+    echo 'class : Source Shisrc2';
   }
 }
