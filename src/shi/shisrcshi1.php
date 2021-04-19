@@ -4,6 +4,6 @@ class Shisrcshi1
 {
   public function __construct()
   {
-    echo 'class : Source shisrcshi1';
+    echo 'class : Source Shi shisrcshi1';
   }
 }
